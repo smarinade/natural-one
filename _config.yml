@@ -16,7 +16,7 @@
 title: Natural One
 description: >- # this means to ignore newlines until "baseurl:"
   Adventures in the underdark.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/natural-one" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: smarinade
 github_username:  smarinade
