@@ -1,25 +1,16 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "A new companion"
 date:   2018-01-25 20:29:40 +0100
-categories: jekyll update
+categories: Dungeons & Dragons 5th
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+Hm, what is this infernal contraption? Must be one of Richard’s toys. It certainly looks intriguing… I feel compelled to tell it more. I guess there is no harm in that, certainly doesn’t feel as evil as the magics he usually conjures. 
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+Well, I am **Arcturus Glacien**, Guardian of the Icebarrow Dens, competent wizard and as of approximately 3 months ago, lost. My companions and I have been on a journey starting in a Drow Elven holding cell, taking us through the Underdark and past many dangers and now finally leading us back to the surface World. We liberated a struggling human village from continuous Orc raid and are now on our way to Riverdale to seek the aid of the local lord in keeping them safe.
 
-Jekyll also offers powerful support for code snippets:
+> “After you!” ‘No, I insist, after you’ “Oh no, please after you”
+> -- <cite>Devon and Glacien taking turns fighting hand to hand with a troll</cite>
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+Our most recent adventure saw us recruiting a mysterious new member by the name of **Devon**, a shapeshifter who might be able to take us to the Oaklands, home of my good friend Vivor and our next major destination.  During our trip to Riverdale we ran into some trouble with a band of trolls who undoubtedly were harassing many a traveller taking this path. I was amazed to see Richard and Vivor charge into the fray like that, it’s like they have no fear of death whatsoever. Dru and Alduin’s support may have something to do with that I suppose. As for the new guy, he proved himself capable with a sword I guess, but I’m still not convinced. That’s enough talking for now, my little contraption. I shall keep you safe between my stuff until I have more time to find out what makes you tick....
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+_Arcturus Glacien signing off!_ 
