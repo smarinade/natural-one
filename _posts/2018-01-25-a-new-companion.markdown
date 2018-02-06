@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "A new companion"
+title:  "A Cunning Companion"
 date:   2018-01-25 20:29:40 +0100
-categories: Dungeons & Dragons 5th
+categories: underdark
 ---
 Hm, what is this infernal contraption? Must be one of Richard’s toys. It certainly looks intriguing… I feel compelled to tell it more. I guess there is no harm in that, certainly doesn’t feel as evil as the magics he usually conjures. 
 
