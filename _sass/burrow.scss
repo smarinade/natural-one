@@ -1,0 +1,14 @@
+@import
+  "burrow/functions",
+  "burrow/mixins",
+  "burrow/site-settings",
+  "burrow/base/base",
+  "burrow/layout/layout",
+  "burrow/module/modules"
+;
+
+body {
+	display: flex;
+	font-family: $sans-serif;
+	font-size: $font-size-base;
+}

@@ -1,0 +1,22 @@
+////////////////////////////////////////////////////////////////////////////////
+// Header
+//
+// description:
+// Lists for everyone
+////////////////////////////////////////////////////////////////////////////////
+.block-list {
+	@include unstyled-list;
+	width: 100%;
+}
+
+.list-item {
+	padding: $double-spacing-unit $double-spacing-unit 0 $double-spacing-unit;
+}
+
+.list-item-link {
+
+}
+
+.list-item-date {
+	font-size: $font-size-tiny;
+}

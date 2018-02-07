@@ -1,0 +1,35 @@
+////////////////////////////////////////////////////////////////////////////////
+// Header
+//
+// description:
+// Every site needs a nice little header
+////////////////////////////////////////////////////////////////////////////////
+
+.header {
+	display: flex;
+	width: 33.33%;
+	padding: $base-spacing-unit $double-spacing-unit;
+	flex-direction: column;
+	justify-content: center;
+	height: 100vh;
+	border-right: 1px solid $iron;
+	overflow: hidden;
+
+	@include mq-max($bp-medium) {
+		padding: 0;
+		width: 100%;
+		height: auto;
+	}
+}
+
+.header-video {
+	height: 100vh;
+}
+
+.header-wrapper {
+	text-align: center;
+}
+
+.header-brand {
+	font-size: $font-size-h1;
+}

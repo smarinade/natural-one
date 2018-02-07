@@ -1,0 +1,18 @@
+.container {
+	width: 100%;
+	padding: $double-spacing-unit;
+
+	@include mq-max($bp-medium) {
+		padding: 0;
+	}
+}
+
+.main-container {
+	display: flex;
+	width: 100%;
+
+	@include mq-max($bp-medium) {
+		display: block;
+		padding: $double-spacing-unit;
+	}
+}
