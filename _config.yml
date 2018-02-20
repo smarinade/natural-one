@@ -18,6 +18,10 @@ description: >- # this means to ignore newlines until "baseurl:"
   Adventures in the underdark.
 baseurl: "/natural-one" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
+image:
+  path: https://deadmanstales.files.wordpress.com/2013/12/crapdice.jpg
+  height: 100
+  width: 100
 twitter_username: smarinade
 github_username:  smarinade
 
