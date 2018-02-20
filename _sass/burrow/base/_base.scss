@@ -15,6 +15,38 @@ h6 {
 	color: $dark-gray;
 }
 
+blockquote {
+	color: $dark-gray;
+	border-left: 4px solid $aluminum;
+	padding: $half-spacing-unit $base-spacing-unit;
+	letter-spacing: -1px;
+	font-size: $font-size-large;
+	font-style: italic;
+
+	> :last-child {
+		margin-bottom: 0;
+	}
+
+	p {
+		margin: 0;
+		margin-bottom: $half-spacing-unit;
+	}
+
+	cite {
+		display: block;
+
+		&::before {
+			content: '-';
+			margin-right: $half-spacing-unit;
+		}
+	}
+}
+
+cite {
+	font-size: $font-size-small;
+	color: $aluminum;
+}
+
 p {
 	margin: $base-spacing-unit 0;
 }
@@ -25,5 +57,6 @@ a {
 	&:hover,
 	&:focus {
 		color: $almost-black;
+		text-decoration: none;
 	}
 }
