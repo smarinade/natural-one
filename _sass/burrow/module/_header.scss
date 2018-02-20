@@ -37,6 +37,7 @@
 .header-logo {
 	margin: 0 auto;
 	width: 60px;
+	fill: $dark-gray;
 
 	@include mq-max($bp-medium) {
 		display: none;
