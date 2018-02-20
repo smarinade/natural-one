@@ -11,6 +11,11 @@
 	display: inline-block;
 }
 
-.post-date {
+.post-date,
+.post-author {
 	font-size: $font-size-tiny;
+}
+
+.post-author {
+	display: inline-block;
 }

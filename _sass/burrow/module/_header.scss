@@ -33,3 +33,12 @@
 .header-brand {
 	font-size: $font-size-h1;
 }
+
+.header-logo {
+	margin: 0 auto;
+	width: 60px;
+
+	@include mq-max($bp-medium) {
+		display: none;
+	}
+}

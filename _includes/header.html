@@ -1,5 +1,8 @@
 <header class="header" role="banner">
 	<div class="header-wrapper">
+		<div class="header-logo">
+			{% include logo.svg %}
+		</div>
 		<a class="header-brand" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
 		<p class="header-brand-description">
 			{{ site.description | escape }}
