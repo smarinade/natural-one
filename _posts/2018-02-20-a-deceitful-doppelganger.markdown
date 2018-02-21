@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "A Thieving Twist"
+title:  "A Deceitful Doppelgänger"
 date:   2018-02-06 19:44:40 +0100
 author: Drusilia Silva
 categories: underdark
