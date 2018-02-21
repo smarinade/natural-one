@@ -15,7 +15,9 @@ layout: default
         <a class="list-item-link" href="{{ post.url | relative_url }}" title="{{ post.title }}">
           <h3 class="list-item-title">{{ post.title }}</h3>
         </a>
-        {{ post.content | strip_html | truncatewords:25 }}
+        <p class="list-item-summary">
+          {{ post.content | strip_html | truncatewords:25 }}
+        </p>
       </li>
     {% endfor %}
   </ol>
