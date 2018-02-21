@@ -5,7 +5,7 @@ date:   2018-01-25 20:29:40 +0100
 author: Arcturus Glacien
 categories: underdark
 ---
-Hm, what is this infernal contraption? Must be one of Richard’s toys. It certainly looks intriguing… I feel compelled to tell it more. I guess there is no harm in that, certainly doesn’t feel as evil as the magics he usually conjures. 
+_Hm, what is this infernal contraption? Must be one of Richard’s toys. It certainly looks intriguing… I feel compelled to tell it more. I guess there is no harm in that, certainly doesn’t feel as evil as the magics he usually conjures._
 
 Well, I am **Arcturus Glacien**, Guardian of the Icebarrow Dens, competent wizard and as of approximately 3 months ago, lost. My companions and I have been on a journey starting in a Drow Elven holding cell, taking us through the Underdark and past many dangers and now finally leading us back to the surface World. We liberated a struggling human village from continuous Orc raid and are now on our way to Riverdale to seek the aid of the local lord in keeping them safe.
 

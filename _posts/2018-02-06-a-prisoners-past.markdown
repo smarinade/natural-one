@@ -5,7 +5,7 @@ date:   2018-02-06 19:44:40 +0100
 author: Arcturus Glacien
 categories: underdark
 ---
-Good morning my precious little contraption,
+_Good morning my precious little contraption,_
 
 As the rest of our troupe is preparing to move out for the day, I figured I would stud you some more... What’s that, another story? Very well. I will tell you how Vivor, Dru, Alduin, Richard and I came to travel together. 
 

@@ -5,7 +5,7 @@ date:   2018-02-06 19:44:40 +0100
 author: Drusilia Silva
 categories: underdark
 ---
-What's this? Hello, anybody there? 
+_What's this? Hello, anybody there?_ 
 
 I saw Arcturus talking to you the other day. So I thought you were some wizardy thing. But you look just like a normal object. Hmm, I feel this energy. It's like you're a living being. It's like you can hear me. Can you hear me? Do you understand me? I feel like you do. It's sometimes so difficult talking to anybody here. The sun will rise in an hour or so. I'm so bored. My other companions need more sleep than I do, so I'm bored almost every night. Do you want to keep me company? It would be nice to share all the events with you. 
 
